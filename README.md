@@ -19,4 +19,4 @@ This server provides simple API responses for different routes.
 
 - **Name:** Aastha Kukreja  
 - **Domain:** Node JS  
-- **Email:** your-email@example.com
+
